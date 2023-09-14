@@ -1,2 +1,2 @@
-# semear_2023
+# batmovel
 Ambiente de desenvolvimento de projetos para o SEMEAR
