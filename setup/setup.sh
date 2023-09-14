@@ -7,5 +7,5 @@ else
     echo "A pasta 'models' foi criada"
 fi
 cd ~/catkin_ws/src/
-cd hovercraft
-cd models && cp -r hovercraft/ ~/.gazebo/models/
+cd batmovel
+cd models && cp -r batmovel/ ~/.gazebo/models/

@@ -1,6 +1,6 @@
 <launch>
     <!-- gazebo configs -->
-    <arg name="world" default="$(find hovercraft)/worlds/spawn_hovercraft.world"/>
+    <arg name="world" default="$(find batmovel)/worlds/spawn_hovercraft.world"/>
 
     <include file="$(find gazebo_ros)/launch/empty_world.launch">
         <arg name="world_name" value="$(arg world)"/>

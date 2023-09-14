@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <sdf version='1.6'>
-  <model name='hovercraft'>
+  <model name='batmovel'>
     <link name='link_0'>
       <inertial>
         <mass>1</mass>
@@ -31,7 +31,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://hovercraft/meshes/hovercraft.obj</uri>
+            <uri>model://batmovel/meshes/hovercraft.obj</uri>
             <scale>0.0012 0.0012 0.0012</scale>
           </mesh>
         </geometry>
